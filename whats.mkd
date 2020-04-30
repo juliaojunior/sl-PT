@@ -1,0 +1,6 @@
+# What is
+
+Este repositorio contem duas pastas principais: a '*base*', sem ressonâncias, e a '*derivada*', com ressonâncias.
+A pasta *derivada' possui subdivisoes. Cada uma delas contém uma derivação diferente. Ou seja, cada subpasta de *derivada* contém os arquivos completos de simulação de uma configuração.
+
+Todos os arquivos para simulação estão em formatode Jupyter Notebooks.
